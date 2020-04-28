@@ -45,4 +45,4 @@ SECTION 39:  Overview of Core Java (Part 2)
 SECTION 40:  Blockchain Fundamentals and Ethereum
 SECTION 41:  Robotic Process Automation (RPA)
 
-## Credit : Thanks to Smart India Hackathon organizers for coming up with such an amazing training program free of cost and the instructors for delivering amazing content .
+Credit : Thanks to Smart India Hackathon organizers for coming up with such an amazing training program free of cost and the instructors for delivering amazing content .

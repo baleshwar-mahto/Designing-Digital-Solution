@@ -4,6 +4,8 @@ Smart India Hackathon  Online Training program (https://www.sih.gov.in/)
 The link to the training can be found [here](https://swayam.gov.in/nd2_aic19_de01/preview)
 
 --- 
+![Screenshot](sih_training.png)
+
 ## The Training content -
 SECTION 1:  Planning for Effective Project Readiness - Module 1
 SECTION 2:  Planning for Effective Project Readiness - Module 2

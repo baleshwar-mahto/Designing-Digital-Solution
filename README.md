@@ -1,7 +1,9 @@
 # Designing-Digital-Solution
 Smart India Hackathon  Online Training program (https://www.sih.gov.in/)
 
-The link to the training can be found [here](https://swayam.gov.in/nd2_aic19_de01/preview)
+The link to the training can be found [here](https://swayam.gov.in/nd2_aic19_de01/preview
+
+--- 
 ## The Training content -
 SECTION 1:  Planning for Effective Project Readiness - Module 1
 SECTION 2:  Planning for Effective Project Readiness - Module 2
@@ -45,4 +47,5 @@ SECTION 39:  Overview of Core Java (Part 2)
 SECTION 40:  Blockchain Fundamentals and Ethereum
 SECTION 41:  Robotic Process Automation (RPA)
 
+---
 Credit : Thanks to Smart India Hackathon organizers for coming up with such an amazing training program free of cost and the instructors for delivering amazing content .

@@ -1,0 +1,64 @@
+Designing Digital Solution
+Version Control System -Module 2 (Terminal Commands)
+$ git
+To check whether git is installed or not.
+
+$ git clone url(of repo)
+To clone git repository in your local computer
+
+$ git config user.name "username"
+To set username (Write your github username within the doube quotes)
+
+$ git config user.email "email ID"
+To set email ID
+
+$ git add filename
+To add a file under the directory in which you are working to git server(github.com)
+ 
+ $ git add . <--
+ The dot in the above command implies current directory
+ To add files in your local repo if you have copied files from other location to your repo directory
+
+ $ git commit - m "message" . <--
+ The commit command is used to save your changes to the local repository. Within the double quotes , write about the changes you are making to the file so that it will be easy for you to trace back the changes & why were they made.
+
+ $ git pull
+ This command is used to get the changes from github server(github.com) to your local repository .
+
+ $ git push
+ This command is used after the git commit and is used to push the changes made to github server.
+
+ Note - Always read the error messages very very carefully .
+
+ $ git congif credentials.helper cache
+ This command is like saving your user name and password so that you don't have to enter username and password time and again when you try to do git push or pull
+
+ $ git clone --help
+ This command is used to get help about the command clone / any command . One of the best way to learn about commands.
+
+ Daemon command
+ $ git daemon
+ It's a way to run our own git server in our local computer so as to save time in case of very slow internet speed.
+ Steps to use daemon command -
+ - Clone your git repository into your local computer that your team is wirking on , then
+ - Run , $ git daemon
+ - At the end of SIH , you can push your local repo into the github server.(It's what you call Distributed Version Control)
+
+* Don't stop here . Do learn other available git commands .
+Google it - git ranching (important aspect)
+
+Best Practices ( During SIH)
+- Small commits
+- Commit small logical changes . It is OK to commit one line change.
+- Frequent  'push' - During hackathon commit/push at least once every hour
+- Frequent pull - pull every hour .Pull before every push
+- Make sure everything works on everyone's machine.Test everything on everyone's machine
+- Commit configuration and test data in the repo
+
+* Some commonly used terms -
+- commit -: create a local revision
+- push -: the new local version to remote repository
+
+* Pull the version you don't have from the remote repository
+* Google it- git pull rebase
+$ git config -global pull.rebase true

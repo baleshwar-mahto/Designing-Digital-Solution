@@ -1,6 +1,10 @@
 # Designing-Digital-Solution
 Smart India Hackathon  Online Training program (https://www.sih.gov.in/)
 
+---
+## About
+I did this training programme " Designing Digital Solution" organized by the Smart India Hackathon 2019 . I learnt a lot in this 45+ hours training programme delivered by the Industry Experts from various domains .I learned skills like Git ,Data Science , Machine Learning ,Product design and prototyping , etc .
+
 The link to the training can be found [here](https://swayam.gov.in/nd2_aic19_de01/preview)
 
 --- 
